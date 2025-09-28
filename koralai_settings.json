@@ -1,0 +1,18 @@
+{
+  "homepage": "https://www.google.com",
+  "searchEngine": "Google",
+  "privateBrowsing": false,
+  "blockPopups": true,
+  "clearDataOnExit": false,
+  "darkMode": false,
+  "showStatusBar": true,
+  "javascriptEnabled": true,
+  "theme": "light",
+  "fontSize": "medium",
+  "autoComplete": true,
+  "savePasswords": false,
+  "allowLocation": true,
+  "allowNotifications": false,
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-27T10:00:00Z"
+}
